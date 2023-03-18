@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ohep7P6q0kH/3UP2Pwf8x7KnJG62U62m82TqTBywCILYefB5VfY0iQ5MxuDl/j1UPp9Uq+Ppedbov0vlK/OfKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\madis\\Documents\\IS\\JuniorCore\\Semester2\\IS413\\mission12\\backend\\mission12_reactFun\\mission12_reactFun.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\madis\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\madis\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\madis\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\madis\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\madis\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\madis\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
